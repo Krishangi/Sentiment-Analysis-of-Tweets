@@ -1,2 +1,4 @@
-# A-step-into-Data-World
-Data Analytics projects done on python and R. 
+● Get data/tweets using twitter API, and look for trends 
+● Do sentiment analysis and plot word cloud
+
+
